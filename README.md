@@ -31,4 +31,4 @@
 <br>
 <br>
 
-<p align="middle"> <b>"Do not pray for an easy life. Pray for the strength to endure a difficult one."</b> - <i>Bruce Lee</i> </p>
+<p align="middle"> <b>"Kindness is the language which the deaf can hear and the blind can see."</b> - <i>Mark Twain</i> </p>
