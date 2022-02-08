@@ -1,16 +1,34 @@
-### Hi there 👋
+<p>
+    <br>
+    <h2 align="middle">
+        Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <b><a href="https://github.com/K4Sh4d0w">K4Sh4d0w</a></b>.
+    </h2>
+</p>
 
-<!--
-**achirazi/achirazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="middle">
+<a href="https://www.linkedin.com/in/chirazi-alexandru-a6b013216/">
+  <img align="middle" alt="achirazi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/dtkixjsti1ip2kfp27rgenr37">
+  <img align="middle" alt="achirazi's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCvnpDdecuQNfXZtz9oscdUg">
+ <img align="middle" alt="achirazi's Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
+</a>
+<a href="https://www.facebook.com/chirazi.alexandru">
+  <img align="middle" alt="achirazi's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+<br>
+<p align="center">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api?username=achiraziw&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+        <br>
+        <br>
+        <br>
+    <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/achirazi/achirazi/master/giphy1.gif" />
+</p>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="middle"> <b>"Do not pray for an easy life. Pray for the strength to endure a difficult one."</b> - <i>Bruce Lee</i> </p>
