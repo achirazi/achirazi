@@ -26,7 +26,7 @@
         <br>
         <br>
         <br>
-    <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/achirazi/achirazi/master/giphy1.gif" />
+    <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/achirazi/achirazi/master/mr-bean-wink.gif" />
 </p>
 <br>
 <br>
